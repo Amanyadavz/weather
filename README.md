@@ -1,4 +1,6 @@
-WEATHER 
+##VerveBridge Intership 
+##WEATHER App
+
 Features of the project.
 It provide dynamic weather data like temp, min max temp etc.
 Dynamic background images change according to weather status.
